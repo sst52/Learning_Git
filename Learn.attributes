@@ -1,0 +1,9 @@
+Basic Commands in GIT
+
+git init  //Initialize_local_repo
+git add file_name //To_add_files_to_index
+git status //To_get_status_of_working_tree
+git commit //To_commit_the_files_into_github
+git push //To_push_files_into_remote_repo
+git pull //To_pull_latest_repo
+git clone //To_clone_the_project_onto_local_machine
