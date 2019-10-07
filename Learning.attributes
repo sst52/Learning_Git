@@ -15,5 +15,12 @@ git add *.html
 git add *
 // To remove from staging area git rm --cached file_name
 git commit -m 'Changed Files'
+git remote //To_check_for_branch_objects
+git remote add object_name url_of_repo //To_create_branch
+git push -u object_name master
+// git push -u object_name branch_name
+
+
+git merge
 
 Checking and working in github
